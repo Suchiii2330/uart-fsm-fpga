@@ -13,15 +13,15 @@ Features:
 - False start-bit detection
 - Frame error handling
 
-Results:
+## Results
 
 Binary FSM
-LUTs: 10
-Flip-flops: 7
+- LUTs: 10
+- Flip-flops: 7
 
 One-Hot FSM
-LUTs: 9
-Flip-flops: 9
+- LUTs: 9
+- Flip-flops: 9
 
-Clock constraint: 100 MHz
+Clock constraint: 100 MHz  
 Worst Negative Slack: ~7.6 ns
